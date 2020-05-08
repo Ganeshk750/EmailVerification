@@ -1,2 +1,3 @@
 # EmailVerification
-Spring Security Email Verification Registration
+Spring Security Email Verification Registration.
+
